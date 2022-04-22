@@ -1,11 +1,14 @@
 Hi 👋 My name is Adarsh Chaurasia
 =================================
 
-DApp and Web Developer
-----------------------
+Software Engineer || DApp and Web Developer
+-------------------------------------------
 
 * 🌍  I'm based in Varanasi
 * ✉️  You can contact me at [chaurasiadarsh11@gmail.com](mailto:chaurasiadarsh11@gmail.com)
+* 🧠  I'm learning Web3.0
+* 🤝  I'm open to collaborating on Blockchain Projects
+* ⚡  I'm secretly a boring kinda person
 
 ### Skills
 
