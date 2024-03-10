@@ -1,7 +1,7 @@
 Hi 👋 My name is Adarsh Chaurasia
 =================================
 
-Software Engineer || DApp and Web Developer
+Software Engineer || Full Stack Developer
 -------------------------------------------
 
 * 🌍  I'm based in Varanasi
