@@ -1,4 +1,4 @@
-Hi 👋 My name is Adarsh Chaurasia
+Hi  My name is Adarsh Chaurasia
 =================================
 
 Software Engineer || Full Stack Developer
