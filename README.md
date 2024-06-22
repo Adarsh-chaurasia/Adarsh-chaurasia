@@ -6,8 +6,8 @@ Software Engineer || Full Stack Developer
 
 * 🌍  I'm based in Varanasi
 * ✉️  You can contact me at [chaurasiadarsh11@gmail.com](mailto:chaurasiadarsh11@gmail.com)
-* 🧠  I'm learning Web3.0
-* 🤝  I'm open to collaborating on Blockchain Projects
+* 🧠  I'm learning NextJs
+* 🤝  I'm open to collaborating on FullStack Projects
 * ⚡  I'm secretly a boring kinda person
 
 <a href="https://www.github.com/Adarsh-chaurasia" target="_blank" rel="noreferrer"><img
