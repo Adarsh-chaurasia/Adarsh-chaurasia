@@ -6,8 +6,8 @@ Software Engineer || Full Stack Developer
 
 * 🌍  I'm from Varanasi.
 * ✉️  You can contact me at [chaurasiadarsh11@gmail.com](mailto:chaurasiadarsh11@gmail.com)
-* 🧠  I'm learning NextJs and SpringBoot.
-* 🤝  I'm open to collaborating on FullStack Projects.
+* 🧠  I'm having knowledge of JAVA , SpringBoot , DSA , System Design , DBMS , CI/CD , GenAI and Cloud Technologies.
+* 🤝  I'm open to collaborating on FullStack Projects using GenAI.
 
 <a href="https://www.github.com/Adarsh-chaurasia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Adarsh-chaurasia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
